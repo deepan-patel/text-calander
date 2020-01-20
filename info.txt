@@ -1,0 +1,1 @@
+This is a text based calander programmed using C++. The user is able to choose whether they want to view the calander for the whole year or just for a specific month. Try having fun with the code by check different years and try to find bugs, this calander also accounts for leap years.
